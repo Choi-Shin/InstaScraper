@@ -1,5 +1,16 @@
 # 인스타그램 게시물 python으로 가져오기
 ---
+### 설치할 패키지
+- 셀레니움
+    ```shell
+    pip install selenium
+    ```
+- urllib3
+    ```shell
+    pip install urllib3
+    ```
+
+
 ⚠️ 인스타그램의 상황에 따라 스크래핑이 안될 수도 있습니다.
 
 - 크롬 디버그모드 실행

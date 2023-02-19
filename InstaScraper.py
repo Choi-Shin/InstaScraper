@@ -1,10 +1,3 @@
-# 게시물클릭 'KL4Bh'
-# 게시물 이미지 class명 'FFVAD'
-# 게시물 본문 '_7UhW9   xLCgt      MMzan   KV-D4           se6yk       T0kll '
-# 게시물 화살표 '  _6CZji    '
-# 게시물당 사진 갯수 클래스 'Yi5aA'
-# 종료 버튼 'wpO6b  '
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
